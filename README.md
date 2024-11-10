@@ -1,6 +1,7 @@
 # WebdriverIO-Cucumber-Autotest
-Autotesting the login form with WebdriverIO + Cucumber using JavaScript // Автоматическое тестирование формы авторизации на WebdriverIO + Cucumber, используя JavaScript
-________________________________________________________________________________________________________________________________________________________________________
+Autotesting the login form with WebdriverIO + Cucumber using JavaScript // 
+Автоматическое тестирование формы авторизации на WebdriverIO + Cucumber, используя JavaScript //
+________________________________________________________________________________________________________________________________
 
 
 ## You can find all needfull .feature and .js files in order to run them on your local machine in "features" folder
@@ -9,9 +10,10 @@ ________________________________________________________________________________
 
 In the file package.json you can fine the scripts - how to run positive and negative tests separately:
 
-:black_circle: In order to **run all tests** (positive and negative) use **"npm run all"**,
-:black_circle: In order to **run only positive** tests use **"npm run positive"**,
-:black_circle: In order to **run only negative** tests use **"npm run negative"**.
+:black_circle: In order to **run all tests** (positive and negative) use **"npm run all"**,    
+:black_circle: In order to **run only positive** tests use **"npm run positive"**,    
+:black_circle: In order to **run only negative** tests use **"npm run negative"**.    
+_______________________________________________________________________________________________________________________________
 
 
 
